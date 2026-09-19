@@ -1,15 +1,28 @@
+
 body {
     background-color: rgb(40, 40, 40);
     color: white;
     display: block;
 }
-#mainpage{
+.mainpage{
     float: right;
     text-align: center;
-    border: 2px solid none;position: relative;
+    border: 2px solid none;
     border-radius: 10px;
     background-color: rgb(80, 80, 80);
     width: 150px;
     height: 25px;
     align-items: left;
 }
+/*----------audio----------*/
+div.audio{
+    border: 2px solid rgb(80,80,80);
+    border-radius: 10px;
+    width: 400px;
+    audio{
+        height: 20px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+}
+
