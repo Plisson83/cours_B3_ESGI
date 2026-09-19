@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(40, 40, 40);
+    color: white;
+    display: block;
+}
+#mainpage{
+    float: right;
+    text-align: center;
+    border: 2px solid none;position: relative;
+    border-radius: 10px;
+    background-color: rgb(80, 80, 80);
+    width: 150px;
+    height: 25px;
+    align-items: left;
+}
