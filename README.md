@@ -5,5 +5,3 @@
 [assembler](https://plisson83.github.io/cours_B3_ESGI/assembler/) 
 
 [juridique](https://plisson83.github.io/cours_B3_ESGI/juridique) 
-
-[anglais](https://plisson83.github.io/cours_B3_ESGI/anglais) 
